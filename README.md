@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/yourusername/velina-data-analytics-portfolio/blob/main/profile.jpg" width="160" style="border-radius:50%;">
+</p>
+
+# 📊 Velina Gunawan — Data Analytics Portfolio
+
+
 # 📊 Velina Gunawan — Data Analytics Portfolio
 
 Hi! I’m **Velina Gunawan**, an aspiring **Business Analyst** passionate about transforming data into meaningful business insights.  
