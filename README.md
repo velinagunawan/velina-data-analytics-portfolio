@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/velinagunawan/velina-data-analytics-portfolio/refs/heads/main/Untitled%20design.jpg" width="160" style="border-radius:50%;">
+  <img src="https://raw.githubusercontent.com/velinagunawan/velina-data-analytics-portfolio/refs/heads/main/Untitled%20design.jpg"
+       alt="Velina Gunawan" width="180" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
 </p>
 
 <h1 align="center">📊 Velina Gunawan — Data Analytics Portfolio</h1>
