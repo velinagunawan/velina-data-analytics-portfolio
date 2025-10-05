@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://github.com/yourusername/velina-data-analytics-portfolio/blob/main/profile.jpg" width="160" style="border-radius:50%;">
+  <img src="https://raw.githubusercontent.com/velinagunawan/velina-data-analytics-portfolio/refs/heads/main/Untitled%20design.jpg" width="160" style="border-radius:50%;">
+</p>
+
+<h1 align="center">📊 Velina Gunawan — Data Analytics Portfolio</h1>
+
+<p align="center">
+  <i>Aspiring Business Analyst passionate about transforming data into meaningful business insights.</i>
 </p>
 
 # 📊 Velina Gunawan — Data Analytics Portfolio
