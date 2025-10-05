@@ -1,6 +1,6 @@
 # 📊 Velina Gunawan — Data Analytics Portfolio
 
-Hi! I’m **Velina Gunawan**, an aspiring **Business and Data Analyst** passionate about transforming data into meaningful business insights.  
+Hi! I’m **Velina Gunawan**, an aspiring **Business Analyst** passionate about transforming data into meaningful business insights.  
 With experience in **business process improvement** and **financial analysis**, I bridge the gap between business goals and data-driven decisions.  
 
 Currently, I’m advancing my analytical skills through the **RevoU Full-Stack Data Analytics Program**, where I’ve gained hands-on experience with **SQL, Python, and Tableau**.
@@ -9,7 +9,7 @@ Currently, I’m advancing my analytical skills through the **RevoU Full-Stack D
 
 ## 🚀 Featured Project
 
-### 📈 RevoU Final Data Analytics Project
+### 📈 Fresh Grocery Business Analysis in Revou Final Program
 **Duration:** June 2025 – December 2025  
 **Tools:** SQL • Python (Pandas, NumPy, Matplotlib) • Tableau  
 
@@ -22,7 +22,7 @@ Analyze business performance data to uncover key drivers of revenue and customer
 #### 🧩 Process
 1. **Data Extraction:** Retrieved and filtered relevant data using SQL.  
 2. **Data Cleaning:** Cleaned and transformed datasets using Python (Pandas).  
-3. **Exploratory Analysis:** Identified patterns, correlations, and outliers through visualization.  
+3. **Exploratory Analysis:** Identified patterns, correlations, and cohorts through visualization.  
 4. **Visualization:** Built an interactive Tableau dashboard for management reporting.  
 5. **Insights & Presentation:** Summarized findings and presented business implications to stakeholders.
 
@@ -31,8 +31,8 @@ Analyze business performance data to uncover key drivers of revenue and customer
 - Customer segmentation revealed groups with higher lifetime value and engagement.  
 - Seasonal analysis showed peak demand during promotional periods.
 
-🔗 [View Tableau Dashboard](https://public.tableau.com/) *(replace with your actual Tableau Public link)*  
-📄 [View Full Project Details](./project-01-revou-final-analysis)
+🔗 [View Tableau Dashboard](https://public.tableau.com/views/Deep_17579542067760/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+📄 [View Full Project Details](https://docs.google.com/presentation/d/1G-O5kvSQr0q7MLOAq267WTmML0PQaPML-yqwWrsPGPc/edit?usp=sharing)
 
 ---
 
@@ -70,8 +70,8 @@ Covered SQL, Python, Statistics, and Tableau through real-world projects and fin
 
 ## 📫 Contact
 
-📧 **velina@email.com**  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)  
+📧 **velinagunawan@gmail.com**  
+🔗 [LinkedIn](www.linkedin.com/in/velina-gunawan) 
 📍 Surabaya, Indonesia  
 
 ---
