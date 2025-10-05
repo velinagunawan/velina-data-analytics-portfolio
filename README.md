@@ -8,11 +8,6 @@
   <i>Aspiring Business Analyst passionate about transforming data into meaningful business insights.</i>
 </p>
 
-# 📊 Velina Gunawan — Data Analytics Portfolio
-
-
-# 📊 Velina Gunawan — Data Analytics Portfolio
-
 Hi! I’m **Velina Gunawan**, an aspiring **Business Analyst** passionate about transforming data into meaningful business insights.  
 With experience in **business process improvement** and **financial analysis**, I bridge the gap between business goals and data-driven decisions.  
 
