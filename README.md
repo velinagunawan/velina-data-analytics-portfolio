@@ -42,13 +42,11 @@ The analysis focused on:
 ---
 
 #### 🧩 Process  
-1. **Data Extraction:** Retrieved and filtered relevant data using SQL.  
-2. **Data Cleaning:** Cleaned and transformed datasets using Python (Pandas).  
-3. **Exploratory Analysis:** Identified patterns, correlations, and cohorts through visualization.  
-4. **Visualization:** Built an interactive Tableau dashboard for management reporting.  
-5. **Insights & Presentation:** Summarized findings and presented business implications to stakeholders.
-
----
+**Data Extraction:** Retrieved and filtered relevant data using SQL.  
+**Data Cleaning:** Cleaned and transformed datasets using Python (Pandas).  
+**Exploratory Analysis:** Identified patterns, correlations, and cohorts through visualization.  
+**Visualization:** Built an interactive Tableau dashboard for management reporting.  
+**Insights & Presentation:** Summarized findings and presented business implications to stakeholders.  
 
 #### 💡 Key Insights  
 - **Confection, Meat, and Poultry** were identified as the **highest-potential categories**, contributing the most to both **revenue and quantity sold**.  
@@ -87,9 +85,10 @@ Covered SQL, Python, Statistics, and Tableau through real-world projects and fin
 ---
 
 ## 🧾 Certifications
-1. **Excel Skills for Business: Intermediate II** — Coursera (May 2020)  
-2. **TOEFL Score:** 630 (November 2020)  
-3. **Data Analyst Certificate** — RevoU (October 2025)
+
+**Excel Skills for Business: Intermediate II** — Coursera (May 2020)  
+**TOEFL Score:** 630 (November 2020)  
+**Data Analyst Certificate** — RevoU (October 2025)
 
 ---
 
