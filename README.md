@@ -49,13 +49,11 @@ The analysis focused on:
 5️⃣ **Insights & Presentation:** Summarized findings and presented business implications to stakeholders.
 
 💡 **Key Insights**  
+1️⃣ **Confection, Meat, and Poultry** were identified as the highest-potential categories, contributing the most to both revenue and quantity sold.  
+2️⃣ Implementing a **10% discount** across most categories was recommended to increase marketing efficiency and drive higher customer engagement.  
+3️⃣ **Inventory adjustments** were advised based on forecasted demand — Confection and Poultry peak on Mondays, while Meat peaks on Fridays.  
 
-1️⃣ **Confection, Meat, and Poultry** were identified as the **highest-potential categories**, contributing the most to both revenue and quantity sold.  
-2️⃣ Implementing a **10% discount** across most categories was recommended to **increase marketing efficiency** and drive higher customer engagement.  
-3️⃣ **Inventory adjustments** were advised based on forecasted demand — **Confection and Poultry** peak on **Mondays**, while **Meat** peaks on **Fridays**. 
----
-
-🔗 [**View Tableau Dashboard**](https://public.tableau.com/views/Deep_17579542067760/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+🔗 [**View Tableau Dashboard**](#)https://public.tableau.com/views/Deep_17579542067760/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 📄 [**View Full Project Details**](https://docs.google.com/presentation/d/1G-O5kvSQr0q7MLOAq267WTmML0PQaPML-yqwWrsPGPc/edit?usp=sharing)
 
 ---
@@ -87,9 +85,9 @@ Covered SQL, Python, Statistics, and Tableau through real-world projects and fin
 
 ## 🧾 Certifications
 
-**Excel Skills for Business: Intermediate II** — Coursera (May 2020)  
-**TOEFL Score:** 630 (November 2020)  
-**Data Analyst Certificate** — RevoU (October 2025)
+1️⃣**Excel Skills for Business: Intermediate II** — Coursera (May 2020)  
+2️⃣**TOEFL Score:** 630 (November 2020)  
+3️⃣**Data Analyst Certificate** — RevoU (October 2025)
 
 ---
 
