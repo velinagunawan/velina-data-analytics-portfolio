@@ -18,30 +18,46 @@ Currently, I’m advancing my analytical skills through the **RevoU Full-Stack D
 
 ## 🚀 Featured Project
 
-### 📈 Fresh Grocery Business Analysis in Revou Final Program
+### 📈 Fresh Grocery Business Analysis (RevoU Final Project)
 **Duration:** June 2025 – December 2025  
 **Tools:** SQL • Python (Pandas, NumPy, Matplotlib) • Tableau  
 
 This project was completed as part of the **RevoU Full-Stack Data Analytics Program**.  
-It demonstrates the complete data analytics workflow — from data extraction and cleaning to visualization and business recommendation.
+It demonstrates the complete data analytics workflow — from data extraction and cleaning to visualization and business recommendations.
 
-#### 🎯 Objective
+---
+
+#### 🎯 Objective  
 Analyze business performance data to uncover key drivers of revenue and customer behavior, and deliver actionable recommendations to improve outcomes.
 
-#### 🧩 Process
+---
+
+#### 📋 Scope  
+The analysis focused on:  
+- Evaluating **revenue drivers** through product mix, discount rate, and customer segmentation.  
+- Analyzing **weekly sales performance** to identify high-performing categories.  
+- Examining **customer purchase patterns** to uncover retention and cross-selling opportunities.  
+- Providing **data-driven recommendations** to improve **marketing efficiency** and **inventory planning**.
+
+---
+
+#### 🧩 Process  
 1. **Data Extraction:** Retrieved and filtered relevant data using SQL.  
 2. **Data Cleaning:** Cleaned and transformed datasets using Python (Pandas).  
 3. **Exploratory Analysis:** Identified patterns, correlations, and cohorts through visualization.  
 4. **Visualization:** Built an interactive Tableau dashboard for management reporting.  
 5. **Insights & Presentation:** Summarized findings and presented business implications to stakeholders.
 
-#### 💡 Key Insights
-- Product categories with consistent weekly sales growth were identified for potential marketing focus.  
-- Customer segmentation revealed groups with higher lifetime value and engagement.  
-- Seasonal analysis showed peak demand during promotional periods.
+---
 
-🔗 [View Tableau Dashboard](https://public.tableau.com/views/Deep_17579542067760/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-📄 [View Full Project Details](https://docs.google.com/presentation/d/1G-O5kvSQr0q7MLOAq267WTmML0PQaPML-yqwWrsPGPc/edit?usp=sharing)
+#### 💡 Key Insights  
+- **Confection, Meat, and Poultry** were identified as the **highest-potential categories**, contributing the most to both **revenue and quantity sold**.  
+- Implementing a **10% discount** across most categories was recommended to **increase marketing efficiency** and drive higher customer engagement.  
+- **Inventory adjustments** were advised based on forecasted demand — **Confection and Poultry** peak on **Mondays**, while **Meat** peaks on **Fridays**.  
+---
+
+🔗 [**View Tableau Dashboard**](https://public.tableau.com/views/Deep_17579542067760/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+📄 [**View Full Project Details**](https://docs.google.com/presentation/d/1G-O5kvSQr0q7MLOAq267WTmML0PQaPML-yqwWrsPGPc/edit?usp=sharing)
 
 ---
 
