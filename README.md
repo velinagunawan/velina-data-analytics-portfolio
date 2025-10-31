@@ -32,26 +32,27 @@ Analyze business performance data to uncover key drivers of revenue and customer
 
 ---
 
-#### 📋 Scope  
+📋 **Scope**
+
 The analysis focused on:  
-- Evaluating **revenue drivers** through product mix, discount rate, and customer segmentation.  
-- Analyzing **weekly sales performance** to identify high-performing categories.  
-- Examining **customer purchase patterns** to uncover retention and cross-selling opportunities.  
-- Providing **data-driven recommendations** to improve **marketing efficiency** and **inventory planning**.
+1️⃣ **Evaluating** revenue drivers through product mix, discount rate, and customer segmentation.  
+2️⃣ **Analyzing** weekly sales performance to identify high-performing categories.  
+3️⃣ **Examining** customer purchase patterns to uncover retention and cross-selling opportunities.  
+4️⃣ **Providing** data-driven recommendations to improve marketing efficiency and inventory planning.
 
----
+🧩 **Process**  
 
-#### 🧩 Process  
-**Data Extraction:** Retrieved and filtered relevant data using SQL.  
-**Data Cleaning:** Cleaned and transformed datasets using Python (Pandas).  
-**Exploratory Analysis:** Identified patterns, correlations, and cohorts through visualization.  
-**Visualization:** Built an interactive Tableau dashboard for management reporting.  
-**Insights & Presentation:** Summarized findings and presented business implications to stakeholders.  
+1️⃣ **Data Extraction:** Retrieved and filtered relevant data using SQL.  
+2️⃣ **Data Cleaning:** Cleaned and transformed datasets using Python (Pandas).  
+3️⃣ **Exploratory Analysis:** Identified patterns, correlations, and cohorts through visualization.  
+4️⃣ **Visualization:** Built an interactive Tableau dashboard for management reporting.  
+5️⃣ **Insights & Presentation:** Summarized findings and presented business implications to stakeholders.
 
-#### 💡 Key Insights  
-- **Confection, Meat, and Poultry** were identified as the **highest-potential categories**, contributing the most to both **revenue and quantity sold**.  
-- Implementing a **10% discount** across most categories was recommended to **increase marketing efficiency** and drive higher customer engagement.  
-- **Inventory adjustments** were advised based on forecasted demand — **Confection and Poultry** peak on **Mondays**, while **Meat** peaks on **Fridays**.  
+💡 **Key Insights**  
+
+1️⃣ **Confection, Meat, and Poultry** were identified as the **highest-potential categories**, contributing the most to both revenue and quantity sold.  
+2️⃣ Implementing a **10% discount** across most categories was recommended to **increase marketing efficiency** and drive higher customer engagement.  
+3️⃣ **Inventory adjustments** were advised based on forecasted demand — **Confection and Poultry** peak on **Mondays**, while **Meat** peaks on **Fridays**. 
 ---
 
 🔗 [**View Tableau Dashboard**](https://public.tableau.com/views/Deep_17579542067760/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
